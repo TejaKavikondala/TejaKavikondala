@@ -91,10 +91,10 @@
 
 # 🎓 Education
 
-**University of Illinois Chicago**  
-Master's degree, Computer Science  
+![UIC](https://img.shields.io/badge/University%20of%20Illinois%20Chicago-CC0000?style=for-the-badge&logo=unic&logoColor=white)  
+**Master's degree, Computer Science**  
 (August 2023 - May 2025)
 
-**Jawaharlal Nehru Technological University, Kakinada**  
-Bachelor of Technology (B.Tech), Electronics and Communications Engineering (ECE)  
+![JNTU](https://img.shields.io/badge/Jawaharlal%20Nehru%20Technological%20University-002147?style=for-the-badge&logo=graduation-cap&logoColor=white)  
+**Bachelor of Technology (B.Tech), Electronics and Communications Engineering (ECE)**  
 (2016 - 2020)
