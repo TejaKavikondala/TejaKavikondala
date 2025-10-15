@@ -1,83 +1,83 @@
-<h1 align="center">Hi 👋, I'm Teja Kavikondala</h1>
-<h3 align="center">Software Engineer | MS CS @ UIC | Full-Stack | Distributed Systems | Cloud & DevOps | ML | NLP</h3>
+# Hello there 👋
+
+![version :08.2025](https://img.shields.io/badge/version-08.2025-blue)  
+![build: passing](https://img.shields.io/badge/build-passing-brightgreen)
+
+## About Me
+
+I’m **Teja Kavikondala**, a Software Engineer passionate about building impactful products and systems.  
+I hold a **Master’s in Computer Science** and have 3+ years of professional experience working on full-stack, cloud, distributed systems, and DevOps.  
+I love diving deep into system design, performance optimization, AI/ML, and scalable architectures.
+
+If you’re working on something interesting or want to chat tech (system design, distributed systems, cloud native, etc.), let’s connect!  
+
+📧 Email: **kavikondalateja.333@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/teja-kavikondala/  
 
 ---
 
-### 🚀 About Me
-I am a passionate Software Engineer with **3+ years of experience** building scalable, cloud-native, and user-centric solutions.  
-I enjoy solving complex engineering problems, designing distributed systems, and continuously learning modern software practices.
+## Tech Stack
 
-- 🎓 MS in Computer Science @ **University of Illinois Chicago**
-- 💼 Actively seeking **Software Engineering roles**
-- 💡 Interested in **System Design, Cloud Architecture, and Agentic AI**
-- 🌎 Open to collaboration and discussions on **Distributed Systems, Microservices, and DevOps**
+### Languages  
+Python · Java · JavaScript · TypeScript · C
 
----
+### Front-end  
+React · Next.js · TypeScript · Redux · MUI · Angular · HTML · CSS/SCSS
 
-### 🛠 Tech Stack
+### Back-end  
+Spring Boot · FastAPI · Django REST · Node.js · Express · Flask
 
-**Languages:**  
-`Python` · `Java` · `JavaScript` · `TypeScript` · `C`
+### Databases  
+MySQL · PostgreSQL · MongoDB · Redis
 
-**Frontend:**  
-`React` · `Next.js` · `TypeScript` · `Redux` · `MUI` · `Angular` · `HTML/CSS/SCSS`
+### Cloud, DevOps & Infra  
+AWS (EC2, S3, RDS, EKS, CloudWatch) · GCP · Azure · Docker · Kubernetes ·  
+Terraform · Jenkins · GitHub Actions · Prometheus · Grafana
 
-**Backend:**  
-`Spring Boot` · `FastAPI` · `Django REST` · `Node.js` · `Express` · `Flask`
-
-**Databases:**  
-`MySQL` · `PostgreSQL` · `MongoDB` · `Redis`
-
-**Cloud & DevOps:**  
-`AWS (EC2, ECR, RDS, S3, EKS, CloudWatch)` · `GCP` · `Azure` · `Docker` · `Kubernetes` ·  
-`Jenkins` · `GitHub Actions` · `Prometheus` · `Grafana` · `Terraform`
-
-**Architecture:**  
-`Microservices` · `Micro-frontends` · `REST APIs` · `Event-Driven Systems (Kafka, RabbitMQ)` ·  
-`CI/CD Pipelines` · `Infrastructure as Code`
+### Architecture & Patterns  
+Microservices · Event-Driven Systems (Kafka, RabbitMQ) · REST APIs · CI/CD · Infrastructure as Code
 
 ---
 
-### 💼 Experience
+## Experience & Work Highlights
 
-**💻 Software Engineer @ LendingClub (2025 - Present)**  
-Building scalable financial systems and distributed architectures.
+- **Software Engineer @ LendingClub** (2025 – Present)  
+  Worked on scalable systems and financial product modules.
 
-**💻 Software Engineer Intern @ Apoorva Corporation (2024)**  
-- Built SaaS-based microservices using Django REST, MongoDB, Kafka  
-- Implemented OAuth 2.0 SSO  
-- Automated infrastructure with Terraform (reduced deployment time by 60%)
+- **Software Engineer Intern @ Apoorva Corporation** (2024)  
+  - Developed microservices with Django REST and Kafka  
+  - Implemented OAuth 2.0 SSO  
+  - Automated deployments with Terraform, reducing deployment time significantly
 
-**💻 Software Engineer @ Demy Software Solutions (2022 - 2023)**  
-- Micro-frontends with React & TypeScript  
-- Optimized FastAPI backend with async I/O (35% throughput improvement)  
-- CI/CD with Docker + GitHub Actions
+- **Software Engineer @ Demy Software Solutions** (2022 – 2023)  
+  - Built micro-frontend systems with React & TypeScript  
+  - Improved FastAPI backend using asynchronous I/O, boosting throughput  
+  - Setup CI/CD pipelines with Docker & GitHub Actions
 
-**💻 Software Engineer @ Cognizant (2020 - 2022)**  
-- Built microservices handling 500K+ transactions/day  
-- Kafka-based event-driven architecture  
-- Monitoring with Prometheus, Grafana, CloudWatch  
-- Automated CI/CD with Jenkins & Maven
-
----
-
-### 🌱 What I'm Learning
-- Advanced **System Design**
-- **Cloud Native Architecture**
-- **Agentic AI Systems**
-- **Scalable ML & NLP Applications**
+- **Software Engineer @ Cognizant** (2020 – 2022)  
+  - Developed microservices handling high transaction rates  
+  - Employed event-driven architecture (Kafka)  
+  - Monitoring and alerting via Prometheus, Grafana, CloudWatch  
+  - Automated builds and tests using Jenkins & Maven
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: **kavikondalateja.333@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/teja-kavikondala/**
-- 🌐 Portfolio (Coming soon!)
+## What I’m Exploring
+
+- Advanced **System Design** & Architectural Patterns  
+- **Agentic AI / Autonomous Systems**  
+- Scalable **ML & NLP** Applications  
+- Performance tuning & optimization in distributed systems
 
 ---
 
-### 🤝 Let’s Build Something Awesome!
-I love collaborating on impactful projects and sharing knowledge.  
-Feel free to reach out if you'd like to work together or discuss tech!
+## Let’s Connect & Build 🚀
 
-⭐ **If you like my work, consider starring some of my repositories!**
+I’m open to collaboration, mentorship, tech talks, and exploring new ideas.  
+Feel free to reach out if you’d like to work together or have tech discussions.  
+
+⭐ If my work resonates, do give my repos a star!  
+
+---
+
+_P.S. I update this periodically to reflect recent projects and learning._
