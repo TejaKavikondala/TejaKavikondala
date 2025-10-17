@@ -8,7 +8,7 @@
 
 💡 I am a passionate Software Engineer experienced in building scalable, user-centric solutions. With a strong academic foundation in Computer Science and hands-on experience across multiple industries, I design, develop, and maintain distributed systems that are secure, performant, and cloud-native.
 
-💻 I have over 3 years of professional experience across Micro-Frontends, Microservices, REST APIs, Databases, CI/CD, Containerization, Event-Driven Architecture, and Infrastructure as Code.
+💻 I have over 4 years of professional experience across Micro-Frontends, Microservices, REST APIs, Databases, CI/CD, Containerization, Event-Driven Architecture, and Infrastructure as Code.
 
 🎓 I hold a Master’s degree in Computer Science from the University of Illinois Chicago, where I deepened my expertise in Software Engineering, UI/UX, Natural Language Processing, and Machine Learning.
 
@@ -27,7 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A5?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Platforms:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
@@ -56,11 +57,11 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-## Message Brokers:
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)&nbsp;
+![Log4j](https://img.shields.io/badge/Log4j-A83537?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
@@ -74,10 +75,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)&nbsp;
-![Log4j](https://img.shields.io/badge/Log4j-A83537?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
