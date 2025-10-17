@@ -8,13 +8,40 @@
 
 💡 I am a passionate Software Engineer experienced in building scalable, user-centric solutions. With a strong academic foundation in Computer Science and hands-on experience across multiple industries, I design, develop, and maintain distributed systems that are secure, performant, and cloud-native.
 
-💻 I have over 4 years of professional experience across Micro-Frontends, Microservices, REST APIs, Databases, CI/CD, Containerization, Event-Driven Architecture, and Infrastructure as Code.
-
+💻 I have over 4 years of professional experience across Micro-Frontends, Microservices, REST APIs, Databases, CI/CD, Containerization, Event-Driven Architecture,Cloud-Native Applications and Infrastructure as Code.
 🎓 I hold a Master’s degree in Computer Science from the University of Illinois Chicago, where I deepened my expertise in Software Engineering, UI/UX, Natural Language Processing, and Machine Learning.
-
 ⚙️ I’m especially curious about System Design and Software Engineering practices. I take joy in solving complex engineering problems and delivering high-performance software solutions.
-
 🤝 Open to conversations on distributed systems, cloud architecture, and Agentic AI. Always seeking opportunities to learn, work with talented teams, and exchange perspectives with fellow engineers.
+
+🛠️ What I Build
+
+Backend & Microservices:
+
+Distributed systems with service discovery, API gateways, and centralized configuration
+High-performance REST APIs handling massive transaction volumes with sub-100ms latency
+Real-time event-driven architectures using message brokers like Kafka and RabbitMQ
+Secure payment processing and OAuth 2.0 authentication implementations
+
+Frontend & User Experience:
+
+Responsive single-page applications with React, Angular, and TypeScript
+Component-driven development with Material-UI and modern CSS frameworks
+Real-time WebSocket-based notifications and live updates
+Performance optimization through lazy loading and state management
+
+Cloud & DevOps:
+
+Container orchestration with Docker and Kubernetes
+Infrastructure-as-Code using Terraform for AWS, GCP, and Azure
+CI/CD pipeline automation with Jenkins, GitHub Actions, and Azure DevOps
+Monitoring and observability with Prometheus, Grafana, and CloudWatch
+
+Data & ML:
+
+NLP projects with LLaMA models and transformer architectures
+Graph neural networks for dynamic network learning
+Data processing and analysis with Python, Pandas, and NumPy
+Computer vision applications with OpenCV and PyTorch
 
 # 📫 &nbsp;How to reach me:
 
