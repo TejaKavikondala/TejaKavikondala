@@ -85,6 +85,7 @@ Computer vision applications with OpenCV and PyTorch
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![REST](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=rest&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-3A6598?style=for-the-badge&logo=grpc&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 ![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
