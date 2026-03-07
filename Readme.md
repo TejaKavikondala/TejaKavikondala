@@ -8,7 +8,7 @@
 
 💡 I am a passionate Software Engineer experienced in building scalable, user-centric solutions. With a strong academic foundation in Computer Science and hands-on experience across multiple industries, I design, develop, and maintain distributed systems that are secure, performant, and cloud-native.
 
-💻 I have over 4 years of professional experience across Micro-Frontends, Microservices, REST APIs, Databases, CI/CD, Containerization, Event-Driven Architecture,Cloud-Native Applications and Infrastructure as Code.
+💻 I have over 4 years of professional experience across Micro-Frontends, Microservices, REST APIs, Databases, CI/CD, Containerization, Event-Driven Architecture,Cloud-Native Applications and Generative AI solutions.
 
 🎓 I hold a Master’s degree in Computer Science from the University of Illinois Chicago, where I deepened my expertise in Software Engineering, UI/UX, Natural Language Processing, and Machine Learning.
 
